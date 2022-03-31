@@ -1,0 +1,12 @@
+{
+  "name": "encoder-plantuml",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/encoder.min.js",
+  "scripts": {
+    "demo": "node demo/index.js"
+  },
+  "keywords": ["uml","plantuml", "encoder"],
+  "author": "zrg_dev@163.com",
+  "license": "MIT"
+}

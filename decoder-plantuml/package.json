@@ -1,0 +1,12 @@
+{
+  "name": "decoder-plantuml",
+  "version": "1.0.2",
+  "description": "",
+  "main": "lib/decoder.min.js",
+  "scripts": {
+    "demo": "node demo/index.js"
+  },
+  "keywords": ["uml","plantuml", "decoder"],
+  "author": "zrg_dev@163.com",
+  "license": "MIT"
+}
