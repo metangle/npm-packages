@@ -1,0 +1,16 @@
+{
+  "name": "component-demo",
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "metangle",
+  "main": "./lib/component-demo.cjs.min.js",
+  "browser": "./lib/component-demo.esm.min.js",
+  "module": "./lib/component-demo.esm.min.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "keywords": []
+}
