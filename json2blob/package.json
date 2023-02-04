@@ -1,6 +1,6 @@
 {
   "name": "json2blob",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "./src/index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "keywords": ["blob", "json"],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
