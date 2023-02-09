@@ -1,12 +1,17 @@
 {
-  "name": "selection-tip",
-  "version": "1.0.2",
+  "author": "zrg_dev@163.com",
   "description": "This is a vue directive, which is to be used with selecting text to float article search function",
+  "keywords": [
+    "selection text",
+    "popover menu",
+    "float tip",
+    "article search"
+  ],
+  "license": "MIT",
   "main": "./src/index.js",
+  "name": "selection-tip",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["selection", "popover menu", "float tip", "article search"],
-  "author": "",
-  "license": "MIT"
+  "version": "1.0.5"
 }

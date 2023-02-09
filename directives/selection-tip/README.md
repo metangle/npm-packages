@@ -17,14 +17,19 @@ Vue.directive('selection', selection)
 // usage
 <article v-selection="prop">This is an article</article>
 
-// prop: Object
-{
-    label: 'search',
-    url: 'https://...',
-    handler(selectedText) {
-        console.log('This function is an action after clicking the popover item')
+// prop: Array
+[
+    {
+        label: 'search',
+        icon: '...',
+        handler(selectedText) {
+            console.log('This function is an action after clicking the popover item')
+        }
     }
-}
+]
+
+// The prop 'label' or 'icon' is required.
+// The prop 'handler' is required.
 ```
 
 # License
